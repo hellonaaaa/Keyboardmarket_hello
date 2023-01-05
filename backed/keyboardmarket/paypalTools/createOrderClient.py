@@ -1,4 +1,4 @@
-from payaplTools.paypalClient import PaypalClient
+from paypalTools.paypalClient import PaypalClient
 from paypalcheckoutsdk.orders import OrdersCreateRequest
 
 RETURN_URL = "http://localhost:8080/#/orderCreated"

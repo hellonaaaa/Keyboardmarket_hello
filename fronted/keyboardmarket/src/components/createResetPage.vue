@@ -40,11 +40,10 @@ export default {
         HeadLogoComponent: () => import("@/components/HeadLogo.vue"),
     },
     data() {
-        return {
-            isLogin: false,
-            username: "",
-            password: "",
-        }
+      return {
+        username:"",
+        resetText:""
+      }
     },
     methods: {
         onSubmit(e){

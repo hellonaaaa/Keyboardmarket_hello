@@ -54,7 +54,7 @@
                     </b-col>
                     <b-col cols="3">
                         <b-button variant="info" @click="addToFavorite">
-                        {{ favoriteText }}
+                          {{ favoriteText }}
                         </b-button>
                     </b-col>
                 </b-row>

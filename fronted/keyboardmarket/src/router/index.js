@@ -13,6 +13,8 @@ import createOrderPage from '@/components/createOrder.vue'
 import orderCreated from '@/components/orderCreated.vue'
 import orderCanceled from '@/components/orderCanceled.vue'
 import createReset from '@/components/createResetPage.vue'
+import resetPage from '@/components/resetPage.vue'
+import favoritePage from '@/components/favoritePage.vue'
 
 
 // 讓vue可以正常使用Router套件
@@ -131,6 +133,22 @@ const routes = [
         title: "重置密碼"
       }
     },
+    {
+      path: "/reset",
+      name: "resetPage",
+      component: resetPage,
+      meta: {
+        title: "重置"
+      }
+    },
+    {
+      path: "/favorite",
+      name: "favoritePage",
+      component: favoritePage,
+      meta: {
+        title: "按讚好物"
+      }
+    }
      
 ]
 

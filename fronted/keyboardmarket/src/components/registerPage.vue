@@ -146,7 +146,7 @@ export default {
                 window.localStorage.setItem('username',this.username)
                 window.localStorage.setItem('token',response.data.data.token)
                 this.$alert("註冊成功").then(() => {
-                    window.location.href = "/#/index"
+                    window.location.href = "/#/"
                     window.location.reload()
                 })
                 }else{

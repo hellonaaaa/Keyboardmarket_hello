@@ -7,8 +7,8 @@ import json
 import uuid
 import datetime
 from tools.db import CartStatus,OrderStatus
-from payaplTools.createOrderClient import CreateOrder
-from payaplTools.captureOrderClient import CaptureOrder
+from paypalTools.createOrderClient import CreateOrder
+from paypalTools.captureOrderClient import CaptureOrder
 from tools.emailClient import EmailClient
 
 CURRENCY_CODE = "TWD"
