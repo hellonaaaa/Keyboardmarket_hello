@@ -47,16 +47,16 @@
 import { getCartData,fixCartData,deleteCartData } from '@/apis/car'
 import { createOrderData } from '@/apis/order.js'
 import { STATUS_OK } from '@/apis/constant.js'
-export default {
-    name: "createOrderPage",
+  export default{
+    name: 'createOrderPage',
     data(){
       return {
         isLogin:false,
         carts:[]
       }
     },
-    components: {
-        HeadLogoComponent: () => import("@/components/HeadLogo.vue")
+    components:{
+      HeadLogoComponent: () => import("@/components/HeadLogo.vue"),
     },
     computed: {
       total: function(){
@@ -75,21 +75,19 @@ export default {
       }
     },
     methods:{
-      // test
       checkout(){
-      var username = window.localStorage.getItem("username")
-      var token = window.localStorage.getItem("token")
-      createOrderData(username,token).then((response) => {
-        if(response.data.code == STATUS_OK){
-          this.$fire({type:"success",text:"結帳成功"}).then(() => {
-            window.location.href = "/#/"
-            window.location.reload()
-            })
-        }else{
-          this.$fire({type:"error",text:response.data.data})
+        var username = window.localStorage.getItem("username")
+        var token = window.localStorage.getItem("token")
+        createOrderData(username,token).then((response) => {
+          if(response.data.code == STATUS_OK){
+            window.localStorage.setItem('orderID',response.data.data.orderid)
+            console.log(response.data.data.links.approve)
+            window.location.href = response.data.data.links.approve
+          }else{
+            this.$fire({type:"error",text:response.data.data})
           }
         })
-        },
+      },
       fixAmount(cid){
         var username = window.localStorage.getItem('username')
         var token = window.localStorage.getItem('token')
@@ -158,5 +156,4 @@ export default {
       }
     }
   }
-
 </script>

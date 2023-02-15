@@ -49,7 +49,7 @@
                         ref="recaptcha"
                         @verify="captchaVerified"
                         @expired="captchaExpired"
-                        sitekey=""
+                        sitekey="6LfTZ7QjAAAAAM_ZDFXY9-YqWb3o_eczCXrZ5Gmv"
                         :loadRecaptchaScript="true"
                     >
                     </vue-recaptcha>

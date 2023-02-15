@@ -11,8 +11,8 @@ def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'keyboardmarket.settings')
     # os.environ['PAYPAL_CLIENT_ID'] = ''
     # os.environ['PAYPAL_CLIENT_SECRET'] = ''
-    os.environ.setdefault('PAYPAL_CLIENT_ID','ATU8soMuwV58SLq4hoM0KVVhzjXfnq6osAOamQw2S6_EtFcl8S6_5pHYkzJbNTl4Y0SnN8jQZWDVtDCK')
-    os.environ.setdefault('PAYPAL_CLIENT_SECRET','EIlvRoRLgsxxueOqsRN6rcNGt8W1x2qgDurkVmc_LCSi4NNYlt14GN-1xdtC1yMeFweqba3J-E-9BUec')
+    os.environ.setdefault('PAYPAL_CLIENT_ID','AUZEt2dx-rBLz6XmNGTzvRi8wnY1VW_cC4LaFtovGRDrntPjTc-iS141-hHYiJETIGtIqldmFkTBkBqE')
+    os.environ.setdefault('PAYPAL_CLIENT_SECRET','ECuSY6f-hcJqUoRjDh-wtTznTmXO0kwezk7Vy-HGbljMgJv2rRQyEWqo5H4BVBehFewsTp6ZFlpsoa0c')
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:

@@ -77,6 +77,7 @@ export default {
             isLogin: false,
             amount: 1,
             item: {},
+            favoriteText:""
         }
     },
     methods:{
