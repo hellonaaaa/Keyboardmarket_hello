@@ -15,7 +15,7 @@ class CreateOrder(PaypalClient):
 			"application_context":{
 				"return_url":RETURN_URL,
 				"cancel_url":CANCEL_URL,
-				"brand_name":"鍵盤貿易",
+				"brand_name":"幸運咖啡館",
 				"landing_page":"BILLING",
 			},
 			"purchase_units":[

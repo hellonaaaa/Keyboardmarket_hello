@@ -25,7 +25,7 @@ class EmailClient:
 		)
 
 		email = EmailMessage(
-			"鍵盤貿易 - 訂單建立成功通知信",
+			"幸運咖啡館 - 訂單建立成功通知信",
 			email_template,
 			self.EMAIL_HOST_USER,
 			[user_email]
@@ -47,7 +47,7 @@ class EmailClient:
 		)
 
 		email = EmailMessage(
-			"鍵盤貿易 - 重設密碼通知信",
+			"幸運咖啡館 - 重設密碼通知信",
 			email_template,
 			self.EMAIL_HOST_USER,
 			[user_email]

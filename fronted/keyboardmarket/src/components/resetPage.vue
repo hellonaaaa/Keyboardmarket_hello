@@ -82,7 +82,7 @@ export default {
       var token = this.$route.query.token
       resetValidate(token).then((response) => {
         if(response.data.code == STATUS_OK){
-          this.$fire({type:"success",text:"token驗證成功，請進行重置"})
+          this.$fire({type:"success",text:"驗證成功，請進行重置"})
         }else{
           this.$fire({type:"error",text:"Token驗證失敗:" + response.data.data}).then(() => {
             location.href = "/#/"
