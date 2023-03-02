@@ -32,9 +32,17 @@
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
 
 <h3>3.查詢訂單
-<h3>步驟一、點選
-<h3>步驟二、可依照....搜尋
+<h3>步驟一、點選訂單
+<img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
+
+<h3>步驟二、可依照....搜尋 
+<h3>點選前往詳情
+ <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222583809-ccddf962-27f6-4462-be7e-8b8efcacf3ab.png">
 <h3>4.收藏及分享
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/114495866/222584157-74009c7c-4842-45fd-b60a-92dccf33ca46.png">
+<img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222584493-e51c01d2-9e25-4b6a-9e4c-f7f65c028e80.png">
+<img width="923" alt="image" src="https://user-images.githubusercontent.com/114495866/222584625-5988e8cb-2b7e-4abc-864f-277ed64307e3.png">
+
 <h3>步驟一、點選分類商品的收藏 
 <h3>步驟二、可分享到line及fb
 <h3>步驟三、到收藏頁面查看那些案讚內容
