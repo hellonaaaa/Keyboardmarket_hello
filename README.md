@@ -7,7 +7,7 @@
 <h2>1.會員系統：
 <h3>使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、忘記密碼重設密碼功能。
 <h3>步驟一：點選會員系統
-![image](https://user-images.githubusercontent.com/114495866/222576219-de613ba4-80d2-44ff-b1ef-f10912d796c8.png)
+<img width="911" alt="image" src="https://user-images.githubusercontent.com/114495866/222577109-a72ca302-eb1f-459a-a509-61ccd61ffb9b.png">
 
 截圖會員系統頁面 登入頁面
 
