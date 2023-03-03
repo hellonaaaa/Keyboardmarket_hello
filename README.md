@@ -38,13 +38,16 @@ project
 <h3>使用的是Python-Django框架、Mysql資料庫
 <h2>3.作品簡單描述
 <h2>1.會員系統：
-<h3>使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、重設密碼、修改個人資料功能。
+<h3>使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、修改個人資料、重設密碼功能。
 <h3>步驟一：點選註冊，輸入基本資料後即可註冊
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png">
 <h3>步驟二：點選會員登入
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631849-53ff0e96-33e7-4193-bcdc-4c23eaebc8c7.png">
 <h3>步驟三: 在個人資料頁面修改自己的會員資訊:大頭照、用戶名稱、地址。
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631946-552535f6-1882-4fe6-9cae-f67d562d2cd2.png"><h3>步驟四：點選登出，可再次重新登入
+<h3>步驟四:重設密碼，並收到信件
+ <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633059-32eeff58-1a6c-4e40-9dc6-877031058e5f.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633178-61b3af06-ea42-430e-b08c-e528a46800d6.png">
 <h3>2.加入購物車、結帳系統
 <h3>步驟一、點選加入購物車
 從首頁的商品加入：
@@ -75,13 +78,3 @@ project
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222584493-e51c01d2-9e25-4b6a-9e4c-f7f65c028e80.png">
 <h3>到收藏頁面查看按讚內容
 <img width="923" alt="image" src="https://user-images.githubusercontent.com/114495866/222584625-5988e8cb-2b7e-4abc-864f-277ed64307e3.png">
- 
- 
- 
-<img width="950" alt="image" src="https://user-images.githubusercontent.com/114495866/222633001-e497e802-ef85-4583-832e-789ac83bf253.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633059-32eeff58-1a6c-4e40-9dc6-877031058e5f.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633111-96d4c454-b842-4868-bad1-40e65b7d7567.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633178-61b3af06-ea42-430e-b08c-e528a46800d6.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633256-195455ac-7ac9-488d-bc78-87a75cea6144.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633326-55d8fd0a-d3c2-4ee7-b794-00689add4b5c.png">
-
