@@ -17,7 +17,7 @@
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222690847-e4259ca4-7672-436c-99b3-8a66ef5fc394.png">
 <h3>2.加入購物車、結帳系統
 <h3>步驟一、點選加入購物車
-從首頁的商品加入：
+  從首頁的商品加入：
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632022-5f5f41e6-07ce-4de5-afcb-748496c92e8f.png">
 從上方分類欄商品加入：
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/114495866/222632078-008071d1-1905-42cd-aba5-28ba6c2e806e.png">
