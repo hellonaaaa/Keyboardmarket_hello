@@ -71,7 +71,8 @@ project
 <h3>3.查詢訂單
 <h3>步驟一、點選個人訂單
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
-<h3>步驟二、可依照條件搜尋 (補)
+<h3>步驟二、可依照條件搜尋
+![image](https://user-images.githubusercontent.com/114495866/222703004-5ef99c18-7270-4af1-8cff-e57e2188b647.png)
 <h3>步驟三、點選前往詳情，可查看已購買的訂單資訊
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222583809-ccddf962-27f6-4462-be7e-8b8efcacf3ab.png">
 <h3>4.分享及按讚商品
