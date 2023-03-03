@@ -1,6 +1,6 @@
 這是一個簡單的作品集-購物車系統
 <h2>1.環境依賴及目錄
-使用 pyhton 3.10.6 環境 django 3.1.5 網站架構 Mysql資料庫
+<使用 pyhton 3.10.6 環境 django 3.1.5 網站架構 Mysql資料庫
 <h2>2.框架、資料庫及上傳網站
 <h3>使用Python-Django框架、Mysql資料庫
 <h2>3.作品簡單描述
