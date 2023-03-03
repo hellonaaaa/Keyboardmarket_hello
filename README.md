@@ -29,6 +29,7 @@ project
 │     │apis  #連接後端api
 │     │assets #回去看看
 │     │components #前端網頁
+│     │ 
 │     │router #網頁路徑
 
 
@@ -37,36 +38,35 @@ project
 <h3>使用的是Python-Django框架、Mysql資料庫
 <h2>3.作品簡單描述
 <h2>1.會員系統：
-<h3>使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、忘記密碼重設密碼功能。
-<h3>步驟一：點選註冊，輸入你的基本資料後即可註冊，註冊完後會跳出註冊成功視窗
+<h3>使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、重設密碼、修改個人資料功能。
+<h3>步驟一：點選註冊，輸入基本資料後即可註冊
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png">
-
 <h3>步驟二：點選會員登入
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631849-53ff0e96-33e7-4193-bcdc-4c23eaebc8c7.png">
 <h3>步驟三: 在個人資料頁面修改自己的會員資訊:大頭照、用戶名稱、地址。
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631946-552535f6-1882-4fe6-9cae-f67d562d2cd2.png"><h3>步驟四：點選登出，可再次重新登入
-<h3>2.加入購物車
+<h3>2.加入購物車、結帳系統
 <h3>步驟一、點選加入購物車
-首頁商品：
+從首頁的商品加入：
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632022-5f5f41e6-07ce-4de5-afcb-748496c92e8f.png">
-上方分類商品：
+從上方分類欄商品加入：
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/114495866/222632078-008071d1-1905-42cd-aba5-28ba6c2e806e.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632104-1a472e1a-e97c-4087-b9f0-40409435983c.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632140-f9e223fc-1572-4d60-919a-820509f3cc18.png">
-<h3>步驟二、點選導覽列購物車的圖案商品已加入購物車
+<h3>步驟二、點選導覽列購物車圖案可查看商品是否已加入購物車
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632210-b0c80c8b-99fb-479f-87ce-266758a73dc9.png">
-可刪除修改數量
+<h3>步驟三、結帳頁面，修改、刪除商品功能
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632327-01e82520-c19c-4db9-b84b-e50d9649cf37.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632355-6815a039-4def-4c41-b170-c5cf4b4d4391.png"> 
-<h3>步驟三、確認商品無誤可按下結帳
+<h3>步驟四、確認商品無誤按下結帳
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/114495866/222632280-9a10b154-b758-4819-99d7-ba10f70dfd5b.png">
-<h3>步驟四、串金流paypal導到結帳頁面
+<h3>步驟五、串金流paypal導到刷卡頁面
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/114495866/222582298-834b78cd-3c22-4fdb-aac0-44553bab9650.png">
 <h3>步驟五、結帳成功畫面
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
-
+<h3>步驟六、收到訂購成功的訊息
 <h3>3.查詢訂單
-<h3>步驟一、點選訂單
+<h3>步驟一、點選個人訂單
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
 
 <h3>步驟二、可依照....搜尋 
