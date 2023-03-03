@@ -29,7 +29,7 @@ project
 │     │apis  #連接後端api
 │     │assets #回去看看
 │     │components #前端網頁
-│     │router
+│     │router #網頁路徑
 
 
 
