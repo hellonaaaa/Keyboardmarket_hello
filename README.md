@@ -48,4 +48,11 @@
 <h3>步驟一、點選分類商品的收藏 
 <h3>步驟二、可分享到line及fb
 <h3>步驟三、到收藏頁面查看那些案讚內容
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/114495866/222633001-e497e802-ef85-4583-832e-789ac83bf253.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633059-32eeff58-1a6c-4e40-9dc6-877031058e5f.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633111-96d4c454-b842-4868-bad1-40e65b7d7567.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633178-61b3af06-ea42-430e-b08c-e528a46800d6.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633256-195455ac-7ac9-488d-bc78-87a75cea6144.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633326-55d8fd0a-d3c2-4ee7-b794-00689add4b5c.png">
+
 
