@@ -7,6 +7,8 @@
 <h2>1.會員系統：
 <h3>使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、忘記密碼重設密碼功能。
 <h3>步驟一：點選註冊，輸入你的基本資料後即可註冊，註冊完後會跳出註冊成功視窗
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631726-4b5922d1-350d-4df3-8d32-8db4e2c84ad0.png">
+
 <h3>步驟二：點選會員登入
 <img width="911" alt="image" src="https://user-images.githubusercontent.com/114495866/222577109-a72ca302-eb1f-459a-a509-61ccd61ffb9b.png">
 <h3>步驟三: 在個人資料頁面修改自己的會員資訊:大頭照、用戶名稱、地址。
