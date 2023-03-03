@@ -47,8 +47,7 @@ project
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631946-552535f6-1882-4fe6-9cae-f67d562d2cd2.png">
 <h3>步驟四：點選登出，可再次重新登入
 <h3>步驟五:重設密碼，並收到信件
- <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633059-32eeff58-1a6c-4e40-9dc6-877031058e5f.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633178-61b3af06-ea42-430e-b08c-e528a46800d6.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222690847-e4259ca4-7672-436c-99b3-8a66ef5fc394.png">
 <h3>2.加入購物車、結帳系統
 <h3>步驟一、點選加入購物車
 從首頁的商品加入：
