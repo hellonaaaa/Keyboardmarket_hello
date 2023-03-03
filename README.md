@@ -60,7 +60,7 @@
 ## 使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、修改個人資料、重設密碼功能。
 ### 步驟一：點選註冊，輸入基本資料後即可註冊
 
-![]("https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png")
+![](https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png)
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png">
 <h3>步驟二：點選會員登入
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631849-53ff0e96-33e7-4193-bcdc-4c23eaebc8c7.png">
