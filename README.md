@@ -1,5 +1,5 @@
 這是一個簡單的作品集-購物車系統
-<h2>1.環境依賴及目錄
+## 1.環境依賴及目錄
 ```
 │  manage.py
 │  README.md
@@ -10,12 +10,12 @@
 │      ├─keyboardmarket
 │      ├─login                      	#登入功能
 │      ├─media                      	#django後台圖片、個人資料圖片
-│      ├─paypalTools  		   	#結帳功能
+│      ├─paypalTools  		   	        #結帳功能
 │      ├─product                    	#產品功能
 │      ├─resetPWD                   	#重設密碼功能
 │      ├─templates                  	#模板
 │      │  ├─orders
-│      │  │      createorder.html  	#訂單成立郵件模板
+│      │  │      createorder.html  	    #訂單成立郵件模板
 │      │  │      
 │      │  └─reset
 │      │          resetpassword.html 	#重設密碼郵件模板
@@ -30,35 +30,37 @@
         └─src
             │  App.vue
             │  main.js 
-            ├─apis  				#連接後端的api      
+            ├─apis  				    #連接後端的api      
             ├─assets 
             ├─components
             │      createOrder.vue		#創建訂單
             │      createResetPage.vue	#重置密碼頁面
-            │      favoritePage.vue	#按讚頁面
-            │      HeadLogo.vue		#導覽列頁面
+            │      favoritePage.vue	    #按讚頁面
+            │      HeadLogo.vue		    #導覽列頁面
             │      HelloWorld.vue               
             │      indexPage.vue		#首頁
             │      loginPage.vue		#登入頁面
             │      orderCanceled.vue	#付款取消
-            │      orderCreated.vue	#付款成功
+            │      orderCreated.vue	    #付款成功
             │      orderDetail.vue		#訂單詳情頁面
             │      orderPage.vue		#訂單
             │      productDetail.vue	#商品詳情頁面
-            │      productsPage.vue	#分類商品頁面
-            │      registerPage.vue	#註冊頁面
+            │      productsPage.vue	    #分類商品頁面
+            │      registerPage.vue	    #註冊頁面
             │      resetPage.vue		#修改密碼頁面
-            │      selfPage.vue		#個人頁面
+            │      selfPage.vue		    #個人頁面
             │      
-            └─router				#路由設定
+            └─router				    #路由設定
 ```                 
 <使用 pyhton 3.10.6 環境 django 3.1.5 網站架構 Mysql資料庫
-<h2>2.框架、資料庫及上傳網站
-<h3>使用Python-Django框架、Mysql資料庫
-<h2>3.作品簡單描述
-<h3>1.會員系統：
-<h3>使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、修改個人資料、重設密碼功能。
-<h3>步驟一：點選註冊，輸入基本資料後即可註冊
+## 2.框架、資料庫及上傳網站
+## 使用Python-Django框架、Mysql資料庫
+## 3.作品簡單描述
+## 1.會員系統：
+## 使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、修改個人資料、重設密碼功能。
+### 步驟一：點選註冊，輸入基本資料後即可註冊
+
+![]("https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png")
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png">
 <h3>步驟二：點選會員登入
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631849-53ff0e96-33e7-4193-bcdc-4c23eaebc8c7.png">
