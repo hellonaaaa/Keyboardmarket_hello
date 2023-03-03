@@ -70,13 +70,9 @@
 <h3>步驟五:重設密碼，並收到信件
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222690847-e4259ca4-7672-436c-99b3-8a66ef5fc394.png">
 <h3>2.加入購物車、結帳系統
-<h3>步驟一、點選加入購物車
-  從首頁的商品加入：
+<h3>步驟一、點選加入購物車 
+從商品頁面中點選喜歡商品加入購物車：
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632022-5f5f41e6-07ce-4de5-afcb-748496c92e8f.png">
-從上方分類欄商品加入：
-<img width="950" alt="image" src="https://user-images.githubusercontent.com/114495866/222632078-008071d1-1905-42cd-aba5-28ba6c2e806e.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632104-1a472e1a-e97c-4087-b9f0-40409435983c.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632140-f9e223fc-1572-4d60-919a-820509f3cc18.png">
 <h3>步驟二、點選導覽列購物車圖案可查看商品是否已加入購物車
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632210-b0c80c8b-99fb-479f-87ce-266758a73dc9.png">
 <h3>步驟三、結帳頁面，修改、刪除商品功能
