@@ -60,26 +60,24 @@ project
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632355-6815a039-4def-4c41-b170-c5cf4b4d4391.png"> 
 <h3>步驟四、確認商品無誤按下結帳
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/114495866/222632280-9a10b154-b758-4819-99d7-ba10f70dfd5b.png">
-<h3>步驟五、串金流paypal導到刷卡頁面
+<h3>步驟五、串金流paypal導到付款頁面
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/114495866/222582298-834b78cd-3c22-4fdb-aac0-44553bab9650.png">
 <h3>步驟五、結帳成功畫面
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
-<h3>步驟六、收到訂購成功的訊息
+<h3>步驟六、收到訂購成功的信件
 <h3>3.查詢訂單
 <h3>步驟一、點選個人訂單
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
-
-<h3>步驟二、可依照....搜尋 
-<h3>點選前往詳情
- <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222583809-ccddf962-27f6-4462-be7e-8b8efcacf3ab.png">
-<h3>4.收藏及分享
-<img width="922" alt="image" src="https://user-images.githubusercontent.com/114495866/222584157-74009c7c-4842-45fd-b60a-92dccf33ca46.png">
+<h3>步驟二、可依照條件搜尋 (補)
+<h3>步驟三、點選前往詳情，可查看已購買的訂單資訊
+<img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222583809-ccddf962-27f6-4462-be7e-8b8efcacf3ab.png">
+<h3>4.分享及按讚商品
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222584493-e51c01d2-9e25-4b6a-9e4c-f7f65c028e80.png">
+<h3>到收藏頁面查看按讚內容
 <img width="923" alt="image" src="https://user-images.githubusercontent.com/114495866/222584625-5988e8cb-2b7e-4abc-864f-277ed64307e3.png">
-
-<h3>步驟一、點選分類商品的收藏 
-<h3>步驟二、可分享到line及fb
-<h3>步驟三、到收藏頁面查看那些案讚內容
+ 
+ 
+ 
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/114495866/222633001-e497e802-ef85-4583-832e-789ac83bf253.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633059-32eeff58-1a6c-4e40-9dc6-877031058e5f.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633111-96d4c454-b842-4868-bad1-40e65b7d7567.png">
