@@ -1,6 +1,6 @@
 這是一個簡單的作品集-購物車系統
 <h2>1.環境依賴及目錄
-<h3>使用 pyhton 3.10.6 環境 django 3.1.5 網站架構 Mysql資料庫
+使用 pyhton 3.10.6 環境 django 3.1.5 網站架構 Mysql資料庫
 
 project
 │   README.md
@@ -34,10 +34,10 @@ project
 
 
 
-<h2>2.框架、資料庫及上傳網站。
-<h3>使用的是Python-Django框架、Mysql資料庫
+<h2>2.框架、資料庫及上傳網站
+<h3>使用Python-Django框架、Mysql資料庫
 <h2>3.作品簡單描述
-<h2>1.會員系統：
+<h3>1.會員系統：
 <h3>使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、修改個人資料、重設密碼功能。
 <h3>步驟一：點選註冊，輸入基本資料後即可註冊
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png">
@@ -69,10 +69,10 @@ project
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
 <h3>步驟六、收到訂購成功的信件
 <h3>3.查詢訂單
-<h3>步驟一、點選個人訂單
+<h3>步驟一、點選訂單
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
 <h3>步驟二、可依照條件搜尋
-![image](https://user-images.githubusercontent.com/114495866/222703004-5ef99c18-7270-4af1-8cff-e57e2188b647.png)
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/114495866/222706186-8289556f-59c7-412f-8f77-1bc8f322b6ad.png">
 <h3>步驟三、點選前往詳情，可查看已購買的訂單資訊
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222583809-ccddf962-27f6-4462-be7e-8b8efcacf3ab.png">
 <h3>4.分享及按讚商品
