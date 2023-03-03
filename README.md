@@ -7,27 +7,27 @@
 <h2>1.會員系統：
 <h3>使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、忘記密碼重設密碼功能。
 <h3>步驟一：點選註冊，輸入你的基本資料後即可註冊，註冊完後會跳出註冊成功視窗
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631726-4b5922d1-350d-4df3-8d32-8db4e2c84ad0.png">
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png">
 
 <h3>步驟二：點選會員登入
-<img width="911" alt="image" src="https://user-images.githubusercontent.com/114495866/222577109-a72ca302-eb1f-459a-a509-61ccd61ffb9b.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631849-53ff0e96-33e7-4193-bcdc-4c23eaebc8c7.png">
 <h3>步驟三: 在個人資料頁面修改自己的會員資訊:大頭照、用戶名稱、地址。
-<img width="911" alt="image" src="https://user-images.githubusercontent.com/114495866/222578112-2772888b-b802-4b26-af0e-b3977a7805a1.png">
-<h3>步驟四：點選登出，可再次重新登入
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631946-552535f6-1882-4fe6-9cae-f67d562d2cd2.png"><h3>步驟四：點選登出，可再次重新登入
 <h3>2.加入購物車
-  
 <h3>步驟一、點選加入購物車
 首頁商品：
-<img width="918" alt="image" src="https://user-images.githubusercontent.com/114495866/222579022-fdc59531-1c19-4797-a00c-d8d457683b05.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632022-5f5f41e6-07ce-4de5-afcb-748496c92e8f.png">
 上方分類商品：
-<img width="924" alt="image" src="https://user-images.githubusercontent.com/114495866/222579305-af3e1e8d-b1b7-4c6d-9f2f-6a978a77ffea.png">
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/114495866/222632078-008071d1-1905-42cd-aba5-28ba6c2e806e.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632104-1a472e1a-e97c-4087-b9f0-40409435983c.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632140-f9e223fc-1572-4d60-919a-820509f3cc18.png">
 <h3>步驟二、點選導覽列購物車的圖案商品已加入購物車
-<img width="904" alt="image" src="https://user-images.githubusercontent.com/114495866/222579451-4ea69431-0d40-4d50-aa13-9e42ace2a0ab.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632210-b0c80c8b-99fb-479f-87ce-266758a73dc9.png">
 可刪除修改數量
-<img width="551" alt="image" src="https://user-images.githubusercontent.com/114495866/222580114-601af216-3530-48eb-aa71-69ff3073cbe2.png">
-<img width="556" alt="image" src="https://user-images.githubusercontent.com/114495866/222580383-27b3e236-49f9-447d-9d62-5809dd1c822e.png">  
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632327-01e82520-c19c-4db9-b84b-e50d9649cf37.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632355-6815a039-4def-4c41-b170-c5cf4b4d4391.png"> 
 <h3>步驟三、確認商品無誤可按下結帳
-<img width="920" alt="image" src="https://user-images.githubusercontent.com/114495866/222581008-c830bfd0-ec68-45d9-998b-3a04762eb44a.png">
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/114495866/222632280-9a10b154-b758-4819-99d7-ba10f70dfd5b.png">
 <h3>步驟四、串金流paypal導到結帳頁面
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/114495866/222582298-834b78cd-3c22-4fdb-aac0-44553bab9650.png">
 <h3>步驟五、結帳成功畫面
