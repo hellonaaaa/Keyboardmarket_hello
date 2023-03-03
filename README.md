@@ -1,6 +1,38 @@
 這是一個簡單的作品集-購物車系統
 <h2>1.環境依賴及目錄
 <h3>使用 pyhton 3.10.6 環境 django 3.1.5 網站架構 Mysql資料庫
+
+project
+│   README.md
+└───backed #後端
+│   
+│   │favorite    #收藏功能
+│   │keyboardmarket    #後端主程式
+│   │login    #登入功能
+│   │media   #
+│   │paypalTools   #結帳功能
+│   │product    #產品功能
+│   │resetPWD    #重設密碼
+│   │templates   #寄信模板
+│     │orders
+│        │createorder.html  #建立訂單信件模板
+│     │reset
+│        │resetpassword.html  #重新設置密碼信件模板 
+│   │tools
+│   │usercart    #購物車功能
+│   │userorder    #使用者下訂單功能
+│   │users    #使用者功能
+│   │manage.py
+└───fronted #前端
+│   │public
+│   │src #前端主程式
+│     │apis  #連接後端api
+│     │assets #回去看看
+│     │components #前端網頁
+│     │router
+
+
+
 <h2>2.框架、資料庫及上傳網站。
 <h3>使用的是Python-Django框架、Mysql資料庫
 <h2>3.作品簡單描述
