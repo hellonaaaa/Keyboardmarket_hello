@@ -67,7 +67,7 @@
 <h3>步驟三: 在個人資料頁面修改自己的會員資訊:大頭照、用戶名稱、地址。
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631946-552535f6-1882-4fe6-9cae-f67d562d2cd2.png">
 <h3>步驟四：點選登出，可再次重新登入
-<h3>步驟五:重設密碼，並收到信件
+<h3>步驟五:重設密碼，並收到通知信
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222690847-e4259ca4-7672-436c-99b3-8a66ef5fc394.png">
 <h3>2.加入購物車、結帳系統
 <h3>步驟一、點選加入購物車 
@@ -83,13 +83,11 @@
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
 <h3>步驟六、收到訂單建立成功的通知信 (補截圖)
 <h3>3.查詢訂單
-<h3>步驟一、點選訂單
+<h3>步驟一、點選訂單、可依條件搜尋
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
-<h3>步驟二、可依照條件搜尋
-<img width="584" alt="image" src="https://user-images.githubusercontent.com/114495866/222706186-8289556f-59c7-412f-8f77-1bc8f322b6ad.png">
 <h3>步驟三、點選前往詳情，可查看已購買的訂單資訊
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222583809-ccddf962-27f6-4462-be7e-8b8efcacf3ab.png">
 <h3>4.分享及按讚商品
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222584493-e51c01d2-9e25-4b6a-9e4c-f7f65c028e80.png">
-<h3>到收藏頁面查看按讚內容
+<h3>到按讚頁面查看按讚內容
 <img width="923" alt="image" src="https://user-images.githubusercontent.com/114495866/222584625-5988e8cb-2b7e-4abc-864f-277ed64307e3.png">
