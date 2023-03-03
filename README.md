@@ -77,7 +77,7 @@
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632210-b0c80c8b-99fb-479f-87ce-266758a73dc9.png">
 <h3>步驟三、結帳頁面，修改、刪除商品、確認結帳功能
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/114495866/222632280-9a10b154-b758-4819-99d7-ba10f70dfd5b.png">
-<h3>步驟四、串金流paypal導到付款頁面
+<h3>步驟四、導到付款頁面
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/114495866/222582298-834b78cd-3c22-4fdb-aac0-44553bab9650.png">
 <h3>步驟五、結帳成功畫面
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
