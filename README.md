@@ -76,11 +76,8 @@
 <h3>步驟二、點選導覽列購物車圖案可查看商品是否已加入購物車
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632210-b0c80c8b-99fb-479f-87ce-266758a73dc9.png">
 <h3>步驟三、結帳頁面，修改、刪除商品功能
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632327-01e82520-c19c-4db9-b84b-e50d9649cf37.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632355-6815a039-4def-4c41-b170-c5cf4b4d4391.png"> 
-<h3>步驟四、確認商品無誤按下結帳
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/114495866/222632280-9a10b154-b758-4819-99d7-ba10f70dfd5b.png">
-<h3>步驟五、串金流paypal導到付款頁面
+<h3>步驟四、串金流paypal導到付款頁面
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/114495866/222582298-834b78cd-3c22-4fdb-aac0-44553bab9650.png">
 <h3>步驟五、結帳成功畫面
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
