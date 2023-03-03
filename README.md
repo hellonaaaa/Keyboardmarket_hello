@@ -81,7 +81,7 @@
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/114495866/222582298-834b78cd-3c22-4fdb-aac0-44553bab9650.png">
 <h3>步驟五、結帳成功畫面
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
-<h3>步驟六、收到訂購成功的信件
+<h3>步驟六、收到訂單建立成功的通知信 (補截圖)
 <h3>3.查詢訂單
 <h3>步驟一、點選訂單
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
