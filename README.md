@@ -44,8 +44,9 @@ project
 <h3>步驟二：點選會員登入
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631849-53ff0e96-33e7-4193-bcdc-4c23eaebc8c7.png">
 <h3>步驟三: 在個人資料頁面修改自己的會員資訊:大頭照、用戶名稱、地址。
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631946-552535f6-1882-4fe6-9cae-f67d562d2cd2.png"><h3>步驟四：點選登出，可再次重新登入
-<h3>步驟四:重設密碼，並收到信件
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631946-552535f6-1882-4fe6-9cae-f67d562d2cd2.png">
+<h3>步驟四：點選登出，可再次重新登入
+<h3>步驟五:重設密碼，並收到信件
  <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633059-32eeff58-1a6c-4e40-9dc6-877031058e5f.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222633178-61b3af06-ea42-430e-b08c-e528a46800d6.png">
 <h3>2.加入購物車、結帳系統
