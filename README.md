@@ -67,7 +67,7 @@
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631849-53ff0e96-33e7-4193-bcdc-4c23eaebc8c7.png">
 
-步驟三: 在個人資料頁面修改自己的會員資訊:大頭照、用戶名稱、地址
+步驟三: 在個人資料頁面修改會員資訊:大頭照、用戶名稱、地址
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631946-552535f6-1882-4fe6-9cae-f67d562d2cd2.png">
 
@@ -79,12 +79,12 @@
 
 ### 2.加入購物車、結帳系統
 
-步驟一、點選加入購物車 
+步驟一、加入購物車 
 從商品頁面中點選喜歡商品加入購物車：
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632022-5f5f41e6-07ce-4de5-afcb-748496c92e8f.png">
 
-步驟二、點選導覽列購物車圖案可查看商品是否已加入購物車
+步驟二、點選購物車圖示查看購物車裡的商品
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632210-b0c80c8b-99fb-479f-87ce-266758a73dc9.png">
 
@@ -103,7 +103,7 @@
 步驟六、收到訂單建立成功的通知信 (補截圖)
 
 ### 3.查詢訂單
-步驟一、點選訂單、可依條件搜尋
+步驟一、依條件搜尋訂單
 
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
 
@@ -116,6 +116,6 @@
 
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222584493-e51c01d2-9e25-4b6a-9e4c-f7f65c028e80.png">
 
-步驟二、到按讚好物頁面查看按讚內容
+步驟二、按讚好物頁面查看按讚商品
 
 <img width="923" alt="image" src="https://user-images.githubusercontent.com/114495866/222584625-5988e8cb-2b7e-4abc-864f-277ed64307e3.png">
