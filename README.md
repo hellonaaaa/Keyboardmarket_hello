@@ -73,50 +73,50 @@
 
 步驟四：點選登出，可再次重新登入
 
-步驟五:重設密碼，並收到通知信
+步驟五：重設密碼，並收到通知信
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222690847-e4259ca4-7672-436c-99b3-8a66ef5fc394.png">
 
 ### 2.加入購物車、結帳系統
 
-步驟一、加入購物車
+步驟一：加入購物車
 
 從商品頁面中點選喜歡商品加入購物車
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632022-5f5f41e6-07ce-4de5-afcb-748496c92e8f.png">
 
-步驟二、點選購物車圖示查看購物車裡的商品
+步驟二：點選購物車圖示查看購物車裡的商品
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632210-b0c80c8b-99fb-479f-87ce-266758a73dc9.png">
 
-步驟三、結帳頁面，修改、刪除商品、確認結帳功能
+步驟三：結帳頁面，修改、刪除商品、確認結帳功能
 
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/114495866/222632280-9a10b154-b758-4819-99d7-ba10f70dfd5b.png">
 
-步驟四、導到付款頁面
+步驟四：導到付款頁面
 
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/114495866/222582298-834b78cd-3c22-4fdb-aac0-44553bab9650.png">
 
-步驟五、結帳成功畫面
+步驟五：結帳成功畫面
 
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
 
-步驟六、收到訂單建立成功的通知信 (補截圖)
+步驟六：收到訂單建立成功的通知信 (補截圖)
 
 ### 3.查詢訂單
-步驟一、依條件搜尋訂單
+步驟一：依條件搜尋訂單
 
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
 
-步驟二、點選前往詳情，可查看已購買的訂單資訊
+步驟二：點選前往詳情，可查看已購買的訂單資訊
 
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222583809-ccddf962-27f6-4462-be7e-8b8efcacf3ab.png">
 
 ### 4.分享及按讚商品
-步驟一、點選FB、LINE即可分享到社群、按讚功能鍵
+步驟一：點選FB、LINE即可分享到社群、按讚功能鍵
 
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222584493-e51c01d2-9e25-4b6a-9e4c-f7f65c028e80.png">
 
-步驟二、按讚好物頁面查看按讚商品
+步驟二：按讚好物頁面查看按讚商品
 
 <img width="923" alt="image" src="https://user-images.githubusercontent.com/114495866/222584625-5988e8cb-2b7e-4abc-864f-277ed64307e3.png">
