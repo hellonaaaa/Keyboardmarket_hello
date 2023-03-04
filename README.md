@@ -61,15 +61,15 @@
  
  步驟一：點選註冊，輸入基本資料後即可註冊
 
-<img width="958" alt="image" src="https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222881375-0fc4f5fa-7b57-4814-af91-b35a87c026f0.png">
 
  步驟二：點選會員登入
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631849-53ff0e96-33e7-4193-bcdc-4c23eaebc8c7.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/114495866/222881425-12ca75d1-fa32-4e60-9afe-4eb1c3ae3b5e.png">
 
 步驟三: 在個人資料頁面修改會員資訊:大頭照、用戶名稱、地址
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631946-552535f6-1882-4fe6-9cae-f67d562d2cd2.png">
+![Uploading image.png…]()
 
 步驟四：點選登出，可再次重新登入
 
@@ -83,7 +83,7 @@
 
 從商品頁面中點選喜歡商品加入購物車
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632022-5f5f41e6-07ce-4de5-afcb-748496c92e8f.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222881238-0f1257c9-4474-4246-84c8-beaf38e51b20.png">
 
 步驟二：點選購物車圖示查看購物車裡的商品
 
