@@ -79,8 +79,9 @@
 
 ### 2.加入購物車、結帳系統
 
-步驟一、加入購物車 
-從商品頁面中點選喜歡商品加入購物車：
+步驟一、加入購物車
+
+從商品頁面中點選喜歡商品加入購物車
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632022-5f5f41e6-07ce-4de5-afcb-748496c92e8f.png">
 
