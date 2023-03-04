@@ -1,5 +1,6 @@
 這是一個簡單的作品集-購物車系統
 ## 1.環境依賴及目錄
+ 使用 pyhton 3.10.6 環境 django 3.1.5 網站架構 Mysql資料庫
 ```
 │  manage.py
 │  README.md
@@ -52,42 +53,69 @@
             │      
             └─router				    #路由設定
 ```                 
-<使用 pyhton 3.10.6 環境 django 3.1.5 網站架構 Mysql資料庫
 ## 2.框架、資料庫及上傳網站
-## 使用Python-Django框架、Mysql資料庫
+ 使用Python-Django框架、Mysql資料庫
 ## 3.作品簡單描述
-## 1.會員系統：
-## 使用的是Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、修改個人資料、重設密碼功能。
-### 步驟一：點選註冊，輸入基本資料後即可註冊
+### 1.會員系統：
+ 使用Mysql資料庫(sql)儲存檔案。 你可以在其中使用登入、註冊、修改個人資料、重設密碼功能。
+ 
+ 步驟一：點選註冊，輸入基本資料後即可註冊
 
-![](https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png)
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/114495866/222632855-addb7556-d0aa-4857-8d6f-5534fa4d2abf.png">
-<h3>步驟二：點選會員登入
+
+ 步驟二：點選會員登入
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631849-53ff0e96-33e7-4193-bcdc-4c23eaebc8c7.png">
-<h3>步驟三: 在個人資料頁面修改自己的會員資訊:大頭照、用戶名稱、地址。
+
+步驟三: 在個人資料頁面修改自己的會員資訊:大頭照、用戶名稱、地址
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222631946-552535f6-1882-4fe6-9cae-f67d562d2cd2.png">
-<h3>步驟四：點選登出，可再次重新登入
-<h3>步驟五:重設密碼，並收到通知信
+
+步驟四：點選登出，可再次重新登入
+
+步驟五:重設密碼，並收到通知信
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222690847-e4259ca4-7672-436c-99b3-8a66ef5fc394.png">
-<h3>2.加入購物車、結帳系統
-<h3>步驟一、點選加入購物車 
+
+### 2.加入購物車、結帳系統
+
+步驟一、點選加入購物車 
 從商品頁面中點選喜歡商品加入購物車：
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632022-5f5f41e6-07ce-4de5-afcb-748496c92e8f.png">
-<h3>步驟二、點選導覽列購物車圖案可查看商品是否已加入購物車
+
+步驟二、點選導覽列購物車圖案可查看商品是否已加入購物車
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632210-b0c80c8b-99fb-479f-87ce-266758a73dc9.png">
-<h3>步驟三、結帳頁面，修改、刪除商品、確認結帳功能
+
+步驟三、結帳頁面，修改、刪除商品、確認結帳功能
+
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/114495866/222632280-9a10b154-b758-4819-99d7-ba10f70dfd5b.png">
-<h3>步驟四、導到付款頁面
+
+步驟四、導到付款頁面
+
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/114495866/222582298-834b78cd-3c22-4fdb-aac0-44553bab9650.png">
-<h3>步驟五、結帳成功畫面
+
+步驟五、結帳成功畫面
+
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
-<h3>步驟六、收到訂單建立成功的通知信 (補截圖)
-<h3>3.查詢訂單
-<h3>步驟一、點選訂單、可依條件搜尋
+
+步驟六、收到訂單建立成功的通知信 (補截圖)
+
+### 3.查詢訂單
+步驟一、點選訂單、可依條件搜尋
+
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
-<h3>步驟三、點選前往詳情，可查看已購買的訂單資訊
+
+步驟二、點選前往詳情，可查看已購買的訂單資訊
+
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222583809-ccddf962-27f6-4462-be7e-8b8efcacf3ab.png">
-<h3>4.分享及按讚商品
+
+### 4.分享及按讚商品
+步驟一、點選FB、LINE即可分享到社群、按讚功能鍵
+
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222584493-e51c01d2-9e25-4b6a-9e4c-f7f65c028e80.png">
-<h3>到按讚頁面查看按讚內容
+
+步驟二、到按讚好物頁面查看按讚內容
+
 <img width="923" alt="image" src="https://user-images.githubusercontent.com/114495866/222584625-5988e8cb-2b7e-4abc-864f-277ed64307e3.png">
