@@ -65,17 +65,17 @@
 
  步驟二：點選會員登入
 
-<img width="959" alt="image" src="https://user-images.githubusercontent.com/114495866/222881425-12ca75d1-fa32-4e60-9afe-4eb1c3ae3b5e.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222881628-e7b1c276-72e4-48e4-990d-56a55da4c250.png">
 
 步驟三: 在個人資料頁面修改會員資訊:大頭照、用戶名稱、地址
 
-![Uploading image.png…]()
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/114495866/222881425-12ca75d1-fa32-4e60-9afe-4eb1c3ae3b5e.png">
 
 步驟四：點選登出，可再次重新登入
 
 步驟五：重設密碼，並收到通知信
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222690847-e4259ca4-7672-436c-99b3-8a66ef5fc394.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222881650-d1841e75-7a89-4a80-b2a2-d375046def4c.png">
 
 ### 2.加入購物車、結帳系統
 
