@@ -87,36 +87,38 @@
 
 步驟二：點選購物車圖示查看購物車裡的商品
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222632210-b0c80c8b-99fb-479f-87ce-266758a73dc9.png">
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/114495866/222881832-c8c33934-cfcd-48c6-974e-2a1e81e9d741.png">
 
 步驟三：結帳頁面，修改、刪除商品、確認結帳功能
 
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/114495866/222632280-9a10b154-b758-4819-99d7-ba10f70dfd5b.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/114495866/222881856-1dd4af0f-11cc-4b60-8870-fe4bb3a8db76.png">
 
 步驟四：導到付款頁面
 
-<img width="904" alt="image" src="https://user-images.githubusercontent.com/114495866/222582298-834b78cd-3c22-4fdb-aac0-44553bab9650.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114495866/222881926-bffb3955-a05f-47ee-a250-57f1f77e48db.png">
 
 步驟五：結帳成功畫面
 
-<img width="916" alt="image" src="https://user-images.githubusercontent.com/114495866/222583009-a495c7f6-2fcd-4407-bd91-3927ad2b81ed.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/114495866/222881945-d814b90f-cc6a-465e-be74-6ae56262206a.png">
 
-步驟六：收到訂單建立成功的通知信 (補截圖)
+步驟六：收到訂單建立成功的通知信 
+
+<img width="925" alt="image" src="https://user-images.githubusercontent.com/114495866/222882308-b5f0985b-4685-4ee8-87c3-80151eef25aa.png">
 
 ### 3.查詢訂單
-步驟一：依條件搜尋訂單
+步驟一：搜尋訂單編號、依條件搜尋
 
-<img width="907" alt="image" src="https://user-images.githubusercontent.com/114495866/222583560-ee4a2b05-d99a-4513-8210-e2f8b2ea4b8e.png">
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/114495866/222882347-543b102b-3529-4251-ba1e-a7a98e0d1461.png">
 
 步驟二：點選前往詳情，可查看已購買的訂單資訊
 
-<img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222583809-ccddf962-27f6-4462-be7e-8b8efcacf3ab.png">
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/114495866/222882458-0c136592-1294-4878-9484-1780392c8f16.png">
 
 ### 4.分享及按讚商品
 步驟一：點選FB、LINE即可分享到社群、按讚功能鍵
 
-<img width="919" alt="image" src="https://user-images.githubusercontent.com/114495866/222584493-e51c01d2-9e25-4b6a-9e4c-f7f65c028e80.png">
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/114495866/222882515-8627315b-2828-423c-9b4f-0ac30c20cf2d.png">
 
 步驟二：按讚好物頁面查看按讚商品
 
-<img width="923" alt="image" src="https://user-images.githubusercontent.com/114495866/222584625-5988e8cb-2b7e-4abc-864f-277ed64307e3.png">
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/114495866/222882553-cebed7f6-ea2d-460e-90c9-2c5d5527ad2d.png">
