@@ -44,7 +44,6 @@ class ProductCategory(Enum):
     @staticmethod
     def dict():
         return [
-            # {"category": "產地介紹", "value": ProductCategory.KEYBOARD.value},
             {"category": "精品咖啡豆", "value": ProductCategory.EARPHONE.value},
             {"category": "濾包", "value": ProductCategory.MOUSE.value},
             {"category": "掛耳包", "value": ProductCategory.DESKTOP.value}

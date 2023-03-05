@@ -66,7 +66,7 @@ def usercart(request,username = None,cid = None):
 		if not user:
 			return R.badRequest("User does not exist!")
 		user = user[0]
-		dbcart = Cart.objects.filter(user = user).filter(product = product)
+		dbcart = Cart.objects.filter(user = user).filter(product = product).filter(status = CartStatus.activate.value)		
 		dbcart = dbcart[0]
 		dbcart.amount = ucart.amount
 		dbcart.save()

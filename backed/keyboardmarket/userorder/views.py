@@ -131,7 +131,8 @@ def userorder(request,orderno = None):
 					status = OrderStatus.notPaid.value,
 					paypal_id = paypal_id
 				)	
-				products.append(cart.product)
+				
+				products.append(userorder)
 
 			user_email = user.email
 			created_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")

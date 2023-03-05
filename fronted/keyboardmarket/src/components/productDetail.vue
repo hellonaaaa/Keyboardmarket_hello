@@ -10,6 +10,7 @@
                     </b-col>
                     <b-row>
                       <h2>{{ item.name }}</h2>
+                      <h4>{{ item.info}}</h4>
                     </b-row>
                 </b-row>
                 <br />
@@ -18,8 +19,8 @@
                         <ShareNetwork
                         network="facebook"
                         :url="'http://127.0.0.1:8080/#/productDetail/' + item.id"
-                        :quote="'我在鍵盤貿易發現了好棒的' + item.name + '!快來鍵盤貿易發現更多商品!'"
-                        :hashtags="'keyboardmarket,鍵盤貿易,' + item.name"
+                        :quote="'幸運咖啡館 ' + item.name "
+                        :hashtags="'來杯美味咖啡吧' + item.name"
                         >
                           <img src="@/assets/fb分享.jpg" style="width:60px;height: 35px;" alt="">
                         </ShareNetwork>
@@ -28,8 +29,8 @@
                     <ShareNetwork
                     network="Line"
                     :url="'http://127.0.0.1:8080/#/productDetail/' + item.id"
-                    :title="item.name + '鍵盤貿易'"
-                    :description="'我在鍵盤貿易發現了好棒的' + item.name + '!快來鍵盤貿易發現更多商品!'"
+                    :title="'幸運咖啡館'+ item.name"
+                    :description="'來杯美味咖啡吧'+item.name "
                     >
                       <img src="@/assets/line分享.jpg" alt="" style="width: 60px;height: 35px;">
                     </ShareNetwork>
