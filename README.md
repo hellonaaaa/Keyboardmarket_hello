@@ -79,10 +79,9 @@
     ![](https://user-images.githubusercontent.com/114495866/222881650-d1841e75-7a89-4a80-b2a2-d375046def4c.png)
 
 ### 2. 加入購物車、結帳系統
+>商品頁面中點選喜歡商品加入購物車，修改、刪除商品、並結帳
 
 * 步驟一：加入購物車
-
-    從商品頁面中點選喜歡商品加入購物車
     
     ![](https://user-images.githubusercontent.com/114495866/222881238-0f1257c9-4474-4246-84c8-beaf38e51b20.png)
 
@@ -107,6 +106,8 @@
     ![](https://user-images.githubusercontent.com/114495866/222882308-b5f0985b-4685-4ee8-87c3-80151eef25aa.png)
 
 ### 3. 查詢訂單
+>查看、搜尋訂單，訂單詳情查看已購買的訂單資訊
+
 * 步驟一：搜尋訂單編號、依條件搜尋
 
     ![](https://user-images.githubusercontent.com/114495866/222882347-543b102b-3529-4251-ba1e-a7a98e0d1461.png)
@@ -116,6 +117,8 @@
     ![](https://user-images.githubusercontent.com/114495866/222882458-0c136592-1294-4878-9484-1780392c8f16.png)
 
 ### 4. 分享及按讚商品
+>商品分享到社群、查看已按讚商品
+
 * 步驟一：點選FB、LINE即可分享到社群、按讚功能鍵
 
     ![](https://user-images.githubusercontent.com/114495866/222882515-8627315b-2828-423c-9b4f-0ac30c20cf2d.png)
