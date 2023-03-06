@@ -9,8 +9,6 @@ import sys
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'keyboardmarket.settings')
-    # os.environ['PAYPAL_CLIENT_ID'] = ''
-    # os.environ['PAYPAL_CLIENT_SECRET'] = ''
     os.environ.setdefault('PAYPAL_CLIENT_ID','')
     os.environ.setdefault('PAYPAL_CLIENT_SECRET','')
     try:
