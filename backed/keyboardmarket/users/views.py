@@ -12,7 +12,7 @@ import requests
 
 
 GOOGLE_RECAPTCHA_API = "https://www.google.com/recaptcha/api/siteverify?secret=%s&response=%s"
-secretKey = "6LfTZ7QjAAAAAGdgQS3VCaOHdWgbfpy-EnqrLcjn"
+secretKey = ""
 
 @logincheck('PUT','DELETE','GET')
 def users(request,username = None):
